@@ -64,3 +64,4 @@ https://speedcat.8f9v.com/
 ## Flyint 飞数机场
 
 * 支持按量付费
+* 支持git ssh
