@@ -5,7 +5,7 @@
 
 > 更新于 2023/01/16
 
-* (官网)[https://hd47h3dikuktvxnvjzja.wgetcloud.org/]
+* [官网](https://hd47h3dikuktvxnvjzja.wgetcloud.org/)
 * 高端的机场，价格稍贵
   
 优点：
@@ -34,7 +34,7 @@
 
 > 更新于 2023/01/16
 
-* (官网)[https://tagss.pro/]
+* https://tagss.pro
 * 高端的机场，价格稍贵
 
 缺点：
