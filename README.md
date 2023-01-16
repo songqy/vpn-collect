@@ -44,6 +44,8 @@
 
 ## 闪电猫
 
+> 更新于 2023/01/16
+
 https://speedcat.8f9v.com/
 
 优点：
@@ -57,11 +59,16 @@ https://speedcat.8f9v.com/
 
 ## Nexitally
 
+> 更新于 2023/01/16
+
 * 不支持按量付费
 * ￥111/30天/500G流量
 
 
 ## Flyint 飞数机场
 
+> 更新于 2023/01/16
+
+* https://www.feishu66.com/
 * 支持按量付费
 * 支持git ssh
